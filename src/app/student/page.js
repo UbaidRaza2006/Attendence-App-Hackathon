@@ -52,7 +52,7 @@ const Student = () => {
     justifyContent: 'space-between',
     padding: '8px 0',
     borderBottom: '1px solid #ccc',
-    backgroundColor: "#007bff",
+    backgroundColor: "#000",
     padding: "10px",
     borderRadius: "10px",
     color: "#fff"

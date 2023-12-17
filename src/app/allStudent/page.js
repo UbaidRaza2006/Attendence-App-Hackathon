@@ -40,7 +40,7 @@ const allStudent = () => {
     justifyContent: 'space-between',
     padding: '8px 0',
     borderBottom: '1px solid #ccc',
-    boxShadow: "rgba(0, 0, 0, 0.24) 0px 3px 8px",
+    boxShadow: "#000",
     height: "50px",
     marginTop: "10px",
     padding: "5px"
