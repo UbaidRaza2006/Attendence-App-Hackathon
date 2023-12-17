@@ -40,7 +40,7 @@ const allStudent = () => {
     justifyContent: 'space-between',
     padding: '8px 0',
     borderBottom: '1px solid #ccc',
-    boxShadow: "#000",
+    boxShadow: "rgba(0, 0, 0, 0.24) 0px 3px 8px",
     height: "50px",
     marginTop: "10px",
     padding: "5px"
@@ -51,14 +51,14 @@ const allStudent = () => {
     justifyContent: 'space-between',
     padding: '8px 0',
     borderBottom: '1px solid #ccc',
-    backgroundColor: "#007bff",
+    backgroundColor: "#000",
     padding: "10px",
     borderRadius: "10px",
     color: "#fff"
   };
 
   const buttonStyle = {
-    backgroundColor: '#007bff', // Blue background color
+    backgroundColor: '#000', // Blue background color
     color: '#fff', // White text color
     borderRadius: '10px',
     padding: '8px 16px',
